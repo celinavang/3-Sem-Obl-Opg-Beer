@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarLib", "BarLib\BarLib.csproj", "{AD552913-AF96-4637-A6B1-49FF92D61DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarLibTests", "BarLibTests\BarLibTests.csproj", "{4B5E734D-E014-4056-A717-31BF5100AF35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD552913-AF96-4637-A6B1-49FF92D61DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD552913-AF96-4637-A6B1-49FF92D61DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD552913-AF96-4637-A6B1-49FF92D61DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD552913-AF96-4637-A6B1-49FF92D61DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5E734D-E014-4056-A717-31BF5100AF35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5E734D-E014-4056-A717-31BF5100AF35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5E734D-E014-4056-A717-31BF5100AF35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5E734D-E014-4056-A717-31BF5100AF35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167CDED7-6784-4431-8067-B3D437299DBE}
+	EndGlobalSection
+EndGlobal
